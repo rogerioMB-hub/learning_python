@@ -1,1 +1,1 @@
-# Python's files to help to understand this language
+# Some python files to help you learn this language that won the world.
